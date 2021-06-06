@@ -9,6 +9,6 @@
 * Press N to open the side menu
 * Choose Model Setup
 * Click Setup
-* import weapon animation of your choice
+* import a weapon animation of your choice
 
 ![Usage](https://user-images.githubusercontent.com/30211694/120929703-5a073200-c6ea-11eb-9e07-70a2961e64a7.gif)
