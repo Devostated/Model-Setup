@@ -1,10 +1,10 @@
-# Model-Setup
+# Model Setup
 
 ## Installation
 * Download the script on the [Release](https://github.com/Devostated/Model-Setup/releases) page
 * In Blender go to Edit > Preferences > Addons > Install
 
-## Does not support f
+## Usage
 * Import your CSGO viewmodels
 * Press N to open the side menu
 * Choose Model Setup
