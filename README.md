@@ -15,7 +15,7 @@
 
 ## It won't work for following weapons:
 * R8 Revolver
-* MP5SD
+* MP5-SD
 * Tec-9
 * SSG 08
 * Maybe more
