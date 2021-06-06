@@ -1,7 +1,7 @@
 # Model-Setup
 
 ## Installation
-* Download the script on the ![Release](https://github.com/Devostated/Model-Setup/releases) page
+* Download the script on the [Release](https://github.com/Devostated/Model-Setup/releases) page
 * In Blender go to Edit > Preferences > Addons > Install
 
 ## Usage
